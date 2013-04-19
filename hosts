@@ -1,7 +1,4 @@
-#UPDATE:2013-04-02 21:56
-
-127.0.0.1	localhost
-#SmartHosts START
+#FuckGFW START
 
 #Google Services START
 
@@ -629,24 +626,6 @@
 98.138.250.88	ne1.farm7.staticflickr.com
 #Flickr END
 
-#Adobe Activation START
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	adobe-dns.adobe.com
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	hl2rcv.adobe.com
-0.0.0.0	practivate.adobe.com
-0.0.0.0	wip3.adobe.com
-0.0.0.0	activate.wip3.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
-#Adobe Activation END
-
 #YouTube START
 203.208.46.206	accounts.youtube.com
 203.208.46.206	apiblog.youtube.com
@@ -684,4 +663,4 @@
 38.229.72.14 www.torproject.org
 #Others END
 
-#SmartHosts END
+#FuckGFW END
