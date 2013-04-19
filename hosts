@@ -1,7 +1,50 @@
 #FuckGFW START
 
-#Google Services START
+#Block Little Snitch
+127.0.0.1 obdev.at
+127.0.0.1 www.obdev.at
 
+#Block Parallents hosts
+127.0.0.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com
+127.0.0.1 pdfm7.vl.parallels.com
+127.0.0.1 registration.parallels.com
+127.0.0.1 parallels.com
+127.0.0.1 update.parallels.com
+
+#Block Adobe Photoshop
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 adobe.activate.com
+127.0.0.1 209.34.83.73:443
+127.0.0.1 209.34.83.73:43
+127.0.0.1 209.34.83.73
+127.0.0.1 209.34.83.67:443
+127.0.0.1 209.34.83.67:43
+127.0.0.1 209.34.83.67
+127.0.0.1 ood.opsource.net
+127.0.0.1 CRL.VERISIGN.NET
+127.0.0.1 199.7.52.190:80
+127.0.0.1 199.7.52.190
+127.0.0.1 adobeereg.com
+127.0.0.1 OCSP.SPO1.VERISIGN.COM
+127.0.0.1 199.7.54.72:80
+127.0.0.1 199.7.54.72
+
+#Google Services START
 203.208.46.200	chatenabled.mail.google.com
 203.208.46.200	static.googleusercontent.com
 203.208.46.200	0.docs.google.com
@@ -522,7 +565,6 @@
 203.208.46.200	plus.google.com
 203.208.46.200	plus.url.google.com
 203.208.46.200	plusone.google.com
-#Google Services END
 
 #Facebook Start
 173.252.100.17	api-read.facebook.com
@@ -581,8 +623,6 @@
 69.171.225.31	www.connect.facebook.com
 173.252.100.17	www.facebook.com
 69.171.242.72	zh-CN.facebook.com
-#Facebook End
-
 
 #Flickr START
 98.136.43.76	geo.yahoo.com
@@ -624,7 +664,6 @@
 98.138.250.88	farm7.staticflickr.com
 98.139.235.135	bf1.farm7.staticflickr.com
 98.138.250.88	ne1.farm7.staticflickr.com
-#Flickr END
 
 #YouTube START
 203.208.46.206	accounts.youtube.com
@@ -640,7 +679,6 @@
 203.208.46.206	s.ytimg.com
 203.208.46.206	www.youtube.com
 203.208.46.206	ytimg.l.google.com
-#YouTube END
 
 #GitHub START
 204.232.175.78	documentcloud.github.com
@@ -652,15 +690,16 @@
 107.22.3.110	status.github.com
 204.232.175.78	training.github.com
 207.97.227.243	www.github.com
-#GitHub END
 
 #Feedly START
 173.194.38.137	feedly-beta.appspot.com
 173.194.72.121	s3.feedly.com
-#Feedly END
+
+#Things Cloud hosts
+203.208.46.161 multithreaded.thingscloud.appspot.com
+203.208.46.161 thingscloud.appspot.com
 
 #Others START
 38.229.72.14 www.torproject.org
-#Others END
 
 #FuckGFW END
