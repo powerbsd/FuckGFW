@@ -1,0 +1,1 @@
+FuckGFW: a publicly Hosts file.
